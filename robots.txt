@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://ngviolet76-beep.github.io/hihousing/sitemap.xml
