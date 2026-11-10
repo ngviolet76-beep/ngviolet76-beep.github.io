@@ -1,6 +1,6 @@
 /* 공개 주소를 정하면 아래 따옴표 안에 넣으세요. 예: https://www.example.co.kr
    비워 두면 지금 열린 주소를 그대로 씁니다. */
-const SITE_URL = 'https://ngviolet76-beep.github.io/hihousing';
+const SITE_URL = 'https://ngviolet76-beep.github.io';
 
 (function () {
   const reduceMotion = window.matchMedia('(prefers-reduced-motion: reduce)').matches;
